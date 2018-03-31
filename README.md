@@ -9,6 +9,8 @@ Swerve drive is a new type of drive train becoming popular amongst first teams. 
 
 Of course you can! As long as you give credit in your code somewhere. 
 
+Download this source code <span style="color: black">[**Here**](https://github.com/noahhusby/FRCSwerveDrive/releases)</span>
+
 While this code works and may work for you, my robotics library <span style="color: black">[**Jello**](https://github.com/noahhusby/Jello)</span> has swerve drive built in as an object and is similar to setup to MecanumDrive and DifferentialDrive.
 
 ## Getting Started
