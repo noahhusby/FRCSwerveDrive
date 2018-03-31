@@ -1,2 +1,2 @@
-# FRCSwerveDrive
-FRC Swerve and Steer Drive Train Demo
+# FRCBase
+Empty FRC project to quickly setup a new first project
